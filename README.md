@@ -1,8 +1,8 @@
 # Genetix 메모
 ## Generation(학습횟수) UI 추가 과정
-- [1. UI Text 추가](#1.-UI-Text-추가)
-- [2. GeneticAlgorithm.cs 수정 (UI 연결)](#2.-GeneticAlgorithm.cs-수정-(UI-연결))
-- [3. UI 연결](#3.-UI-연결)
+- [1. UI Text 추가](#1-UI-Text-추가)
+- [2. GeneticAlgorithm.cs 수정 (UI 연결)](#2-GeneticAlgorithm.cs-수정-(UI-연결))
+- [3. UI 연결](#3-UI-연결)
 
 ## 1. UI Text 추가
 - Hierarchy 창에서 UI > Legacy > Text를 추가 (간단한 UI 텍스트만 표시하기 위해 Legacy UI Text를 사용)<br>
