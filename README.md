@@ -1,7 +1,7 @@
 # Genetix 메모
 ## Generation(학습횟수) UI 추가 과정
 - [1. UI Text 추가](#1-UI-Text-추가)
-- [2. GeneticAlgorithm.cs 수정 (UI 연결)](#2-GeneticAlgorithm-cs-수정-(UI-연결))
+- [2. GeneticAlgorithm.cs 수정 (UI 연결)](#2-GeneticAlgorithm-cs-수정--UI-연결-)
 - [3. UI 연결](#3-UI-연결)
 
 ## 1. UI Text 추가
