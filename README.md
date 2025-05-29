@@ -1,7 +1,8 @@
-# Genetix
+# Genetix 메모
 ## 1. Generation(학습횟수) UI 추가 과정
 ### 1. UI Text 추가
 - Hierarchy 창에서 UI > Legacy > Text를 추가 (간단한 UI 텍스트만 표시하기 위해 Legacy UI Text를 사용)<br>
+  Text 이름은 GenerationText로 설정<br>
 ![image](https://github.com/user-attachments/assets/a49d4ef6-a186-4a23-8e5d-d5671cb150ce)
 
 - RectTransform에서 위치를 조정해서 화면에 잘 보이게 배치<br>
